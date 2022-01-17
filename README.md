@@ -1,4 +1,4 @@
-# spark-rdd-computations-E2E-implementation-with-transformations-and-actions-gutenberg-data
+# apache-spark-rdd-computations-E2E-implementation-with-transformations-and-actions-gutenberg-data
 
 This project is delivered as part of my Masters in Big Data Science (MSc BDS) Program for the module named “Big Data Processing” in Queen Mary University of London (QMUL), London, United Kingdom.  
 
