@@ -6,7 +6,7 @@ This project covers the development of Spark RDD computations from scratch using
 
 Implemented the use of basic transformations (namely flatMap, map, reduceByKey) and actions on the RDDs and submitted spark jobs to the cluster.   
 
-Identified solutions to the questions namely: 
+Implemented solutions to the below questions and scenarios:
 1. Counting the total number of words 
 2. Total number of occurrences of each unique word 
 3. Computation of Top 10 words using the Spark’s ‘takeOrdered’ function 
